@@ -15,7 +15,7 @@ public class Conexion {
 	private static final String dbName = "users";
 	private static final String driver = "org.postgresql.Driver";
 	private static final String userName = "postgres";
-	private static final String password = "Jorge1804";
+	private static final String password = "Judimero152432";
 
 	public Conexion() {
 		try {
